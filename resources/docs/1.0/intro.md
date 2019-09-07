@@ -1,10 +1,10 @@
-# Eventmie Pro
+# AddChat Pro
 
-**Host single, multiple and repetitive days events and sell their tickets**
+**Add Chat to your website. A Chat Widget for all your needs.**
 
 <br>
 
-Laravel package
+Codeigniter & Laravel
 
 > {primary.fa-youtube} Here's a complete video tutorial guide for getting started quickly ✌️
 
@@ -18,6 +18,4 @@ Laravel package
 <a name="overview"></a>
 ## Overview
 
-**Eventmie Pro** is an event hosting and ticket selling multi-vendor platform. 
-
-> {info.fa-globe} Eventmie pro supports all the different timezones, languages and currencies from all around the world.
+**Addchat Pro** is a chat widget that you can integrate into your Codeigniter and Laravel website.

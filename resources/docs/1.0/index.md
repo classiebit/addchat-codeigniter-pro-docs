@@ -1,32 +1,21 @@
 - ## Quick Start
     - [Intro](/{{route}}/{{version}}/intro)
     - [Install](/{{route}}/{{version}}/install)
+    - [Configure](/{{route}}/{{version}}/config)
     - [Demo Accounts](/{{route}}/{{version}}/demo-accounts)
     - [Upcoming](/{{route}}/{{version}}/upcoming)
 
 - ## Features
-    - [Events](/{{route}}/{{version}}/features/events)
-    - [Booking](/{{route}}/{{version}}/features/booking)
-    - [Commission](/{{route}}/{{version}}/features/commission)
-    
+    - [Conversations](/{{route}}/{{version}}/features/conversations)
+    - [User Groups](/{{route}}/{{version}}/features/user-groups)
+    - [Profile](/{{route}}/{{version}}/features/profile)
+    - [Magic Modes](/{{route}}/{{version}}/features/magic-modes)
+    - [Customer Support](/{{route}}/{{version}}/features/customer-support)
+    - [Realtime Notifications](/{{route}}/{{version}}/features/realtime-notifications)
+    - [Include/Exclude URLs](/{{route}}/{{version}}/features/include-exclude-urls)
 
-- ## Organiser Account
-    - [My Events](/{{route}}/{{version}}/o-account/myevents)
-    - [My Speakers](/{{route}}/{{version}}/o-account/myspeakers)
-    - [My Sponsors](/{{route}}/{{version}}/o-account/mysponsors)
-    - [My Bookings](/{{route}}/{{version}}/o-account/mybookings)
-
-- ## Customer Account
-    - [My Bookings](/{{route}}/{{version}}/c-account/mybookings)
-
-- ## Admin Panel
-    - [Dashboard](/{{route}}/{{version}}/admin/dashboard)
-    - [Manage Events](/{{route}}/{{version}}/admin/manage-events)
-    - [Manage Bookings](/{{route}}/{{version}}/admin/manage-bookings)
-    - [Manage Users](/{{route}}/{{version}}/admin/manage-users)
-    - [Manage Site](/{{route}}/{{version}}/admin/manage-site)
-    - [Contacts](/{{route}}/{{version}}/admin/contacts)
-    - [Blog Posts](/{{route}}/{{version}}/admin/blog-posts)
+- ## Admin
+    - [Admin Panel](/{{route}}/{{version}}/admin/admin-panel)
     - [Settings](/{{route}}/{{version}}/admin/settings)
     
 - ## Changelog
