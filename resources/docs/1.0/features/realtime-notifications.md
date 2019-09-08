@@ -1,18 +1,18 @@
 # Realtime Notifications
 
-This is the most advanced feature of AddChat. We've implemented **Pusher** & developed a new **Internal** notification system for realtime and chatting. 
+This is the most advanced feature of AddChat. We've implemented **Pusher** & developed a new **Internal** notification system for chatting in realtime. 
 
 <br>
 
-**Internal** notification system is a very light weight and high performance realtime chatting notification system built using VueJs, which do not require any additional server setup. It works smoothly behind the scenes.
+**Internal** notification system is a very light weight and high in performance and built using VueJs, which also do not require any additional server setup. It works smoothly behind the scenes.
 
 <br>
 
-Internal notification system sends regular `Asynchronous HTTP/S Requests` to the server for getting latest messages updates. For the geeks who already know what it means, let us tell you a secret. It only runs a **Single `SELECT`** database query in a **Single `Table`** to fetch latest messages updates. So it never lower your server performance.
+**Internal** notification system sends regular `Asynchronous HTTP/S Requests` to the server for getting latest messages updates. For the geeks who already know what it means, let us tell you a secret. It only runs a **Single `SELECT`** database query in a **Single `Table`** to fetch latest messages updates. So it never lower down your server performance.
 
 <br>
 
-Also the **total no. of `records`** fetched from the **Single `SELECT`** database query are equal to the **total no. of users chatting at the same time**. Using this, you can calculate the server load of the **Internal** notification system.
+Also the **total no. of `records`** fetched from the **Single `SELECT`** database query are equal to the **total no. of users chatting at the same time**. From this logic , you can calculate the server load of the **Internal** notification system.
 
 ---
 
@@ -36,6 +36,7 @@ Internal notification system fetches the following things in realtime (without r
 1. Total received messages of a contact (user)
 2. New messages while chatting with a user
 3. Message is seen or not
+4. User is typing... (coming soon in next version)
 
 ---
 
