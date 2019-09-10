@@ -10,24 +10,43 @@ Below are all the demo accounts and their credentials.
 
 > {primary} Password for all the below accounts is same - `password`
 
-### Customer Accounts
 
-1. David lane         - `davidlane@mail.com`
-2. Cora Woods         - `corawoods@mail.com`
+### Customer Group
 
-3. Roman Pane         - `romanpane@mail.com`
-4. Tara Young         - `tarayoung@mail.com`
-
-### Organiser Accounts
-
-1. Josh Grey          - `joshgrey@mail.com`
-2. Gina White         - `ginawhite@mail.com`
-
-3. Katie Stone        - `katiestone@mail.com`
-4. Tony Ray           - `tonyray@mail.com`
+1. David lane       - `davidlane@mail.com`
+2. Cora Woods       - `corawoods@mail.com`
 
 
-### Admin Accounts
+### Sales Group
 
-1. Alex Hart          - `alexhart@mail.com`
-2. Sonia Maxwell      - `soniamaxwell@mail.com`
+1. Alex Hart        - `alexhart@mail.com`
+2. Sonia Maxwell    - `soniamaxwell@mail.com`
+
+
+### Support Group
+
+1. Josh Grey        - `joshgrey@mail.com`
+2. Gina White       - `ginawhite@mail.com`
+
+
+### Semi-admin Group
+
+1. Roman Pane       - `romanpane@mail.com`
+2. Tara Young       - `tarayoung@mail.com`
+
+
+### Support + Sales Group
+
+1. Katie Stone      - `katiestone@mail.com`
+2. Tony Ray         - `tonyray@mail.com`
+
+
+### Sales + Semi-admin Group
+
+1. Jane Smith       - `janesmith@mail.com`
+2. John Doe         - `johndoe@mail.com`
+
+
+### Admin Account
+
+1. Admin            - `admin@admin.com`

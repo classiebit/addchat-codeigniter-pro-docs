@@ -2,6 +2,8 @@
 
 This is the most awaited feature of AddChat. AddChat automatically detect your website user groups. And then as a website Admin, you can visit AddChat admin panel and set permissions for the groups. Like, which group can chat with which.
 
+>{success} AddChat support multiple user groups e.g a user can belongs to multiple groups.
+
 
 - [Setup User Groups](#Setup-User-Groups)
 - [Set Groups Permissions](#Set-Groups-Permissions)
