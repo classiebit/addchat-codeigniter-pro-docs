@@ -16,7 +16,8 @@ return [
     'docs'        => [
         'route'   => '/docs',
         'path'    => '/resources/docs',
-        'landing' => 'intro',
+        'landing' => 'introduction',
+        'middleware' => ['web'],
     ],
 
     /*
@@ -52,7 +53,7 @@ return [
 
     'settings'       => [
         'auth'       => false,
-        'ga_id'      => ''
+        'ga_id'      => env('APP_ENV') == 'production' ? 'UA-148180654-1' : '',
     ],
 
     /*
@@ -69,8 +70,8 @@ return [
     */
 
     'cache'       => [
-        'enabled' => env('APP_ENV') == 'staging' ? true : false,
-        'period'  => 1440 // 24 hours
+        'enabled' => false,
+        'period'  => 5
     ],
 
     /*
@@ -112,13 +113,13 @@ return [
     |
     */
 
-    'ui'                 => [
+     'ui'                 => [
         'code_theme'     => 'dark', // or: light
         'fav'            => 'logo.png',     // eg: fav.png
         'fa_v4_shims'    => true, // Add FontAwesome v4 shims prevent BC break
         'colors'         => [
-            'primary'    => '#1b89ef',
-            'secondary'  => '#ec398b'
+            'primary'    => '#0080ff',
+            'secondary'  => '#444e60'
         ],
     ],
 
@@ -136,14 +137,13 @@ return [
 
     'seo'                 => [
         'author'          => 'classiebit',
-        'description'     => 'Receive honest feedbacks and specific question\'s answers from your co-workers, friends and people around you.',
-        'keywords'        => 'addchat, docs, anonymous, feedback, messaging, social, network, personal, questions, answers',
+        'description'     => 'Add Chat widget to your Laravel or CodeIgniter website that lives on your server.',
         'og'              => [
-            'title'       => 'Addchat Pro - Docs',
+            'title'       => 'AddChat Lite - Docs',
             'type'        => 'article',
-            'url'         => 'http://docs.addchat-pro.classiebit.com',
-            'image'       => 'http://docs.addchat-pro.classiebit.com/logo.png',
-            'description' => 'Receive honest feedbacks and specific question\'s answers from your co-workers, friends and people around you.',
+            'url'         => 'https://addchat-pro-docs.classiebit.com',
+            'image'       => 'https://addchat-pro-docs.classiebit.com/logo.png',
+            'description' => 'Add Chat widget to your Laravel or CodeIgniter website that lives on your server.',
         ]
     ],
 

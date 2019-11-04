@@ -19,12 +19,12 @@ User groups option is by default `disabled`. You've to `enable` it from `Admin P
 
 To enable user groups option, your website should meet the following **requirements**.
 
-1. `Groups` table
-2. **Pivot** table for `Users` & `Groups` table, which contains sets of `User Id` and `Group Id`.
+1. `Groups` or `Roles` table.
+2. **Pivot** table for `Users` & `Groups`/`Roles` table, which contains sets of `User Id` and `Group Id`/`Role Id`.
 
 ---
 
->{primary} We've designed the Group system according to most common and standard User Groups functionality.
+>{primary} We've designed the Group system according to most common and standard User Groups/Roles functionality.
 
 ---
 
