@@ -1,12 +1,10 @@
 # Settings
 
-Here you can manage AddChat widget global settings.
-
-> {warning} Please, carefully read all the guidelines provided below for each setting, or else it may break down the your site.
+Manage AddChat global settings here.
 
 ---
 
-> {danger} Please make sure you use the exact same setting value type e.g string, numeric, etc.
+>{primary} To visit `Admin Panel` click on profile icon and then click <larecipe-button type="white">Admin Panel</larecipe-button>
 
 
 - [General](#General)
@@ -20,50 +18,51 @@ Here you can manage AddChat widget global settings.
 <a name="General"></a>
 ## General Settings
 
-These are your website specific settings.
+Setup brand identity.
 
 
 |Setting Name|Type|Description|
 |:-|:-|
 |Site Name|`alpha-numeric`|Brand/Website name|
-|Site Logo|`image:jpg|jpeg|png`|You'll see this logo on the AddChat widget and admin panel|
-|Chat Icon|`image:jpg|jpeg|png`|You'll see this logo as the widget icon|
-|Footer Text|`alpha-numeric`|Change the footer text according to your Brand|
+|Site Logo|`image:jpg|jpeg|png`|Logo for AddChat widget and admin panel|
+|Chat Icon|`image:jpg|jpeg|png`|Logo for the widget icon|
+|Footer Text|`alpha-numeric`|Give chat widget your own brand name|
+|Footer URL|`alpha-numeric`|Brand website URL|
 
 
 
 <a name="Widget-Config"></a>
 ## Widget Config
 
-These are the chat widget main configs
+These are the AddChat widget main configurations
 
 
 |Setting Name|Type|Description|
 |:-|:-|
-|Admin User Id|`integer`|Enter the Admin Id value from the users table (only this user will see the admin panel)|
-|Pagination Limit|`integer`|Enter the total records value that are fetched in single time (be careful, greater the value, greater the database load)|
-|Upload Path|`integer`|Enter the path, where to upload the profile pic and message attachments|
-|Assets Path|`integer`|Enter the AddChat assets path, from where AddChat will pick up the fonts, placeholder image and notification sound|
+|Admin User Id|`integer`|Admin-User-Id **VALUE** from the users table (by default **Admin-User-id** is **1**)|
+|Pagination Limit|`integer`|The total number of records to be fetched at a single time (greater the value, greater load)|
+|Upload Path|`integer`|The profile pics will be uploaded to this path|
+|Assets Path|`integer`|AddChat assets path, AddChat will pick up the fonts, placeholder image and notification sound from this path|
 
 ---
 
->{danger} Please be sure to keep the `Upload Path` writable, or else it'll through error while uploading images
+>{danger} Please be sure to keep the `Upload Path` writable, or else it'll through an error while uploading images
 
 
 
 <a name="Users-Table"></a>
 ## Users Table
 
-Enter your website `users` table name and columns name, so that AddChat can use your existing users base.
-
->{success} AddChat never modify any data in your `users` table and never read the `password` or any other sensitive column except `user id` and `email`
-
+Enter your website `users` table name and it's `user-id` & `email` column names.
 
 |Setting Name|Type|Description|
 |:-|:-|
-|Users table name|`string`|Enter the Users table name|
-|User Id|`string`|Enter the user id column name in the users table|
-|User Email|`string`|Enter the user email column name in the users table|
+|Users table name|`string`|`users` table name|
+|User Id|`string`|`user-id` column name in the users table|
+|User Email|`string`|`email` column name in the users table|
+
+
+>{success} AddChat never modify any data the `users` table and never read the `password` or any other sensitive column except `user id` and `email`
 
 ---
 
@@ -72,11 +71,15 @@ Enter your website `users` table name and columns name, so that AddChat can use 
 <a name="User-Groups-Table"></a>
 ## User Groups Table
 
->{warning} Please read `Features -> User Groups` section for more info about `Groups` Function
+---
+
+>{warning} Please read **[User Groups](/{{route}}/{{version}}/features/user-groups)** for more info about `Groups` Function
+
+---
 
 Enter `groups` table name and columns name, so that AddChat can fetch & use your existing user groups.
 
->{success} Again, AddChat never modify any data the `groups` table and never assign any `group` to any `user`
+>{success} AddChat never modify any data in the `groups` table and never assign any `group` to any `user`
 
 
 |Setting Name|Type|Description|
@@ -96,7 +99,7 @@ Enter `groups` table name and columns name, so that AddChat can fetch & use your
 <a name="Guest-Mode"></a>
 ## Guest Mode
 
->{warning} Please read `Features -> Customer Support` section for more info about `Guest Mode` Function
+>{warning} Please read **[Customer Support](/{{route}}/{{version}}/features/customer-support)** section for more info about `Guest Mode` Function
 
 Enter `Guest/Support Group` id (value), the group who chats with the `Guests` (the users who are not registered or logged in into the your website)
 
@@ -109,5 +112,8 @@ Enter `Guest/Support Group` id (value), the group who chats with the `Guests` (t
 
 ---
 
+> {warning} Please read the guidelines provided below each setting, and follow exactly mentioned, or else it may break down your site.
 
+---
 
+> {primary} After updating settings, please log out and log in again to see the effects.

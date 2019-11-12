@@ -1,14 +1,17 @@
 # Demo Accounts
 
-We've created some `demo accounts` and added `demo data` into them to showcase all the features of Eventmie Pro. 
+Demo accounts have got `demo data` to easily showcase all the features of AddChat Pro version.
 
-1. If you've logged in using a demo account, you can do whatever you want, no restrictions.
+<br>
+1. We refresh the database every day.
+2. While in demo mode, there are no restrictions except -
 
-2. We refresh the database everyday.
+    - Modifying admin panel settings.
 
-Below are all the demo accounts and their credentials.
 
-> {primary} Password for all the below accounts is same - `password`
+---
+
+> {info} Password is same for all - `password`
 
 
 ### Customer Group

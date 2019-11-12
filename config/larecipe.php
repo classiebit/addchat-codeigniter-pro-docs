@@ -139,7 +139,7 @@ return [
         'author'          => 'classiebit',
         'description'     => 'Add Chat widget to your Laravel or CodeIgniter website that lives on your server.',
         'og'              => [
-            'title'       => 'AddChat Lite - Docs',
+            'title'       => 'AddChat Pro - Docs',
             'type'        => 'article',
             'url'         => 'https://addchat-pro-docs.classiebit.com',
             'image'       => 'https://addchat-pro-docs.classiebit.com/logo.png',

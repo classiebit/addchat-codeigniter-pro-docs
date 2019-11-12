@@ -1,26 +1,24 @@
 # Customer Support
 
-This is another amazing feature. Customer support, chat support, live support, guest chatting, whatever you say it, would match every situation. If a user is not login into your website, still the user can chat. 
+Customer support, chat support, live support, guest chatting, whatever you say it, will match-up with every situation. A user can also chat without even logging in into your website.
 
 <br>
 
-We call it **Guest Mode** in which user do not need to be login, to chat, they only need to enter their `name` and `email` and continue to chat.
-
->{primary} Wait. It's much more than that, please continue reading 🙏🏻
+**Guest Mode** in which the user does not need to be logged in to chat, they only need to enter their `name` & `email` to continue chatting.
 
 
 - [Setup Guest Mode](#Setup-Guest-Mode)
 - [Guest Login](#Guest-Login)
-- [Guest To Registered User](#Guest-To-Registered-User)
+- [Auto-conversion](#Auto-conversion)
 
 
 
 <a name="Setup-Guest-Mode"></a>
 ## Setup Guest Mode
 
-**Guest Mode** is `disabled` by default. You need to set it up first to `enable` it. But before that, it's required to setup and `enable` **User Groups**
+**Guest Mode** is `disabled` by default. You need to set it up first to `enable` it. But before that, it is required to set up and `enable` **User Groups**
 
->{warning} Read the **User Groups** feature before continuing to below steps.
+>{info} Read the **[User Groups](/{{route}}/{{version}}/features/user-groups)** feature before continuing to below steps.
 
 ---
 
@@ -29,14 +27,10 @@ It's very simple to `enable` the **Guest Mode**, you only need to -
 1. Go to `Admin Panel -> Settings`
 2. Scroll down to **GUEST MODE** section
 3. Click on the `Guest Mode` checkbox, to turn it `on/off`
-4. Finally, enter the **Guest Group Id** (value), this will be the group who chats with Guests (the user who are not logged in)
+4. Finally, enter the **Guest Group Id** (value), the User-group that can chat with Guests (users who are not logged in)
 
 
->{info} When a Guest sends a message, then it'll be forwarded to all the users in the Guest group, and anyone can reply to the Guest.
-
----
-
->{success} When you successfully complete the above step, you'll see a **Guest/Customer Support** tab on the chat widget.
+>{success} After the above step completes, `Admin` & `Guest-group` users can see a **Guest/Customer Support** tab on the chat widget.
 
 ---
 
@@ -44,30 +38,31 @@ It's very simple to `enable` the **Guest Mode**, you only need to -
 <a name="Guest-Login"></a>
 ## Guest Login
 
-Let's see how a guest can start chatting without actually logging into your website but by temporarily registering with AddChat Widget (we used cookies for this).
+Let's see how a Guest can start chatting without logging into the website.
 
-1. When you're not logged into the website, click on the Chat widget
-2. The widget form window will open asking you for your `Name` & `Email`, fill it.
-3. Click on &nbsp;<larecipe-button type="primary" size="sm" radius="full">Let's Chat</larecipe-button>
+1. When a Guest visits your website and clicks on the AddChat widget.
 
-<br>
+2. A form window will open in the AddChat widget, asking about their `Name` & `Email`.
 
->{primary} When Guest send a message, then all the users in the Guest group will receive the message, and anyone can reply at the same time. Like parallel multi-user chat.
+3. After submitting, the Guest can start chatting.
 
 
-
-<a name="Guest-To-Registered-User"></a>
-## Guest To Registered User
-
-Auto conversion from Guest to Registered user with all the guest messages restored. Let's explore it more.
-
-<br>
-
-- Suppose a guest entered the `name` & `email` and started chatting and then he/she closed the browser (closed the website)
-- The next day the guest again comes to the website, then when he/she open the chat, can continue to conversation where he/she left yesterday
-- Now suppose a guest is having conversation with customer support, and after a few messages, he/she **Signup** on your website with the same `email`
-- After he/she **Login** into the website and open the Chat widget, then he/she can see all the messages that he/she sent as a **Guest** and can continue where he/she left.
+>{primary} When a Guest sends a message, it gets forwarded to all the Guest-group users.
 
 
->{primary} This is useful when your leads becomes your customers and want to have a record for everything.
+<a name="Auto-conversion"></a>
+## Auto-conversion
+
+AddChat auto-convert the Guest conversations to Registered user conversations, when the Guest **Register** on the website with the same `Email` that he/she used as a Guest. Let's see what it is-
+
+- Suppose a Guest started chatting.
+
+- And on next day, when the guest returns and opens the chat, then he/she can continue from the previous conversation.
+
+- Now suppose the same guest **Signup** on the website with the same `email`
+
+- And, when the guest **Login** into the website, and open the Chat widget, then he/she can see all the previous conversations that were sent as **Guest**.
+
+
+>{primary} This is useful when your leads become your customers.
  

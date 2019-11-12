@@ -1,12 +1,13 @@
 # Profile
 
-As we've promised, AddChat do not modify any of your website's database. It only fetch information like user id, email, etc. Only those columns that you enter in the `Admin Panel -> Settings`, so no privacy leak, everything in front of you.
+--- 
 
->{primary} To manage each user info like Name, profile picture, online status, etc, AddChat do all these thing in its own seperate table.
+![Addchat User Profile](https://addchat-docs.classiebit.com/images/profile.jpg "Addchat User Profile")
 
 ---
 
-In the profile, you can manage your-
+
+AddChat does not modify any of your website's existing database tables or data. It only fetches `user-id` and `email` from `users` table **(read-only)**. AddChat manages every user info like name, profile picture, online status, etc, in a separate table called `ac_profiles`. In the profile, the user can update-
 
 1. Name
 2. Profile picture
@@ -14,4 +15,4 @@ In the profile, you can manage your-
 
 ---
 
->{info} Currently user's `online status` is manage manually by the user. In next version, we'll make it automatic, so that whenever a user is online the status will be updated automatically.
+>{info} As of now, the user `online status` is managed manually by the user. In the next version, we'll make it automatic, so that whenever a user comes online the status will be updated automatically.

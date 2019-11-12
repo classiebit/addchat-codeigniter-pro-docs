@@ -1,10 +1,9 @@
 - ## Quick Start
-    - [Intro](/{{route}}/{{version}}/intro)
-    - [Why use?](/{{route}}/{{version}}/why-use)
-    - [Install](/{{route}}/{{version}}/install)
-    - [Configure](/{{route}}/{{version}}/config)
+    - [Introduction](/{{route}}/{{version}}/introduction)
+    - [Laravel Installation](/{{route}}/{{version}}/laravel-installation)
+    - [CodeIgniter Installation](/{{route}}/{{version}}/codeigniter-installation)
     - [Demo Accounts](/{{route}}/{{version}}/demo-accounts)
-    - [Upcoming](/{{route}}/{{version}}/upcoming)
+    - [Settings](/{{route}}/{{version}}/admin/settings)
 
 - ## Features
     - [Realtime Notifications](/{{route}}/{{version}}/features/realtime-notifications)
@@ -17,10 +16,14 @@
 
 - ## Admin
     - [Admin Panel](/{{route}}/{{version}}/admin/admin-panel)
-    - [Settings](/{{route}}/{{version}}/admin/settings)
+    - [Multi-Lang Laravel](/{{route}}/{{version}}/admin/multi-language-laravel)
+    - [Multi-Lang CodeIgniter](/{{route}}/{{version}}/admin/multi-language-codeigniter)
     
-- ## Changelog
-    - [V1.0](/{{route}}/{{version}}/changelog/V1.0)
 
 - ## Contact
     - [Support](/{{route}}/{{version}}/contact/support)
+    
+        
+- ## Changelog
+    - [V1.0](/{{route}}/{{version}}/changelog/V1.0)
+

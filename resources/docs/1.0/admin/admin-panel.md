@@ -1,13 +1,8 @@
 # Dashboard
 
-Dashboard coming soon in next version. The dashboard will contain a lot of monitioring features.
+Dashboard coming soon in the next version and will be coming with a lot of monitoring features.
 
-> {primary} We're gonna add charts and graphs on the dashboard in the next upcoming version.
-
----
-
-> {success} You can also submit a feature request according to your needs.
-
+> {success} We're gonna add Charts and Graphs for advanced monitoring
 
 ---
 
@@ -21,19 +16,19 @@ Dashboard coming soon in next version. The dashboard will contain a lot of monit
 <a name="Conversations"></a>
 ## Conversations
 
-Here, you can monitor and view all the registered users conversations on your website.
+Here, you can monitor and view all the user's conversations.
 
 
 <a name="Guest-Conversations"></a>
 ## Guest Conversations
 
-Here, you can monitor and view all the guest users conversations on your website.
+Here, you can monitor and view all the guest users conversations.
 
 
 <a name="Blocked-Reported"></a>
 ## Blocked & Reported
 
-Here, you can monitor and view all users that are blocked or reported by other users.
+Here, you can monitor and view all users that are blocked or reported.
 
 
 <a name="User-Groups"></a>
@@ -41,4 +36,10 @@ Here, you can monitor and view all users that are blocked or reported by other u
 
 >{warning} Please read `Features -> User Groups` for more info about this page 
 
-Here, you can view all the user groups of your website and can set persmission for which groups can chat with which group.
+Here, you can view all the user groups of your website and can set persmission for, which groups can chat with which.
+
+---
+
+>{primary} AI implementation like auto-response, auto-user-assistance bots, etc will be coming in the upcoming versions.
+
+---
