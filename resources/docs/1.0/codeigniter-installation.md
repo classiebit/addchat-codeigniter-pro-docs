@@ -36,14 +36,14 @@ AddChat CodeIgniter Pro comes with an installer that makes the installation proc
 ## Install
 
 1. Download & Unzip the package.
-2. Copy the **addchat_installer** folder and paste it into your website root directory.
+2. Copy the **addchat_installer_pro** folder and paste it into your website root directory.
 3. After doing so, your website directory will look like this.
 
     ```bash
 
     yoursite.com
     │
-    ├── addchat_installer
+    ├── addchat_installer_pro
     ├── application
     ├── system
     │
@@ -56,14 +56,14 @@ AddChat CodeIgniter Pro comes with an installer that makes the installation proc
 
     ```
 
-4. Visit `yoursite.com/addchat_installer` to run the installer. 
+4. Visit `yoursite.com/addchat_installer_pro` to run the installer. 
 
 
 >{warning} Make sure **.htaccess** files exist and not hidden.
 
 ---
 
-> {danger} Do not forget to delete the **addchat_installer** folder after successful installation.
+> {danger} Do not forget to delete the **addchat_installer_pro** folder after successful installation.
 
 ---
 

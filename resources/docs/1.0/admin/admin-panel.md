@@ -34,7 +34,7 @@ Here, you can monitor and view all users that are blocked or reported.
 <a name="User-Groups"></a>
 ## User Groups
 
->{warning} Please read `Features -> User Groups` for more info about this page 
+>{warning} Please read **[User Groups](/{{route}}/{{version}}/features/user-groups)** for more info about `Groups` Function
 
 Here, you can view all the user groups of your website and can set persmission for, which groups can chat with which.
 
