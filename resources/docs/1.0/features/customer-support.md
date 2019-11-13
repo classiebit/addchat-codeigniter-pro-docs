@@ -2,7 +2,11 @@
 
 Customer support, chat support, live support, guest chatting, whatever you say it, will match-up with every situation. A user can also chat without even logging in into your website.
 
-<br>
+---
+
+![Live Customer support, Helpdesk, live chat support](https://addchat-pro-docs.classiebit.com/images/customer-support.jpg "Live Customer support, Helpdesk, live chat support")
+
+---
 
 **Guest Mode** in which the user does not need to be logged in to chat, they only need to enter their `name` & `email` to continue chatting.
 
@@ -17,6 +21,12 @@ Customer support, chat support, live support, guest chatting, whatever you say i
 ## Setup Guest Mode
 
 **Guest Mode** is `disabled` by default. You need to set it up first to `enable` it. But before that, it is required to set up and `enable` **User Groups**
+
+---
+
+![Setup customer support or guest mode](https://addchat-pro-docs.classiebit.com/images/setup-guest-mode.jpg "Setup customer support or guest mode")
+
+---
 
 >{info} Read the **[User Groups](/{{route}}/{{version}}/features/user-groups)** feature before continuing to below steps.
 
@@ -40,6 +50,12 @@ It's very simple to `enable` the **Guest Mode**, you only need to -
 
 Let's see how a Guest can start chatting without logging into the website.
 
+---
+
+![Guest login](https://addchat-pro-docs.classiebit.com/images/start-guest-chat.jpg "Guest login")
+
+---
+
 1. When a Guest visits your website and clicks on the AddChat widget.
 
 2. A form window will open in the AddChat widget, asking about their `Name` & `Email`.
@@ -47,13 +63,16 @@ Let's see how a Guest can start chatting without logging into the website.
 3. After submitting, the Guest can start chatting.
 
 
->{primary} When a Guest sends a message, it gets forwarded to all the Guest-group users.
+>{primary} When Guest sends a message, it gets forwarded to all the Guest-group users.
+
+---
 
 
 <a name="Auto-conversion"></a>
 ## Auto-conversion
 
 AddChat auto-convert the Guest conversations to Registered user conversations, when the Guest **Register** on the website with the same `Email` that he/she used as a Guest. Let's see what it is-
+
 
 - Suppose a Guest started chatting.
 

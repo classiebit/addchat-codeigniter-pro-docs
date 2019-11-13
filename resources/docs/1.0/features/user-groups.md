@@ -2,6 +2,12 @@
 
 AddChat's one of the most awaited features. AddChat automatically detects the website's **User-Groups**. Admin can set permissions for the groups from AddChat Admin-panel. Like, which group can chat with which.
 
+---
+
+![Multiple User Groups](https://addchat-pro-docs.classiebit.com/images/user-groups.jpg "Multiple User Groups")
+
+---
+
 >{success} AddChat supports multiple user groups e.g a user can belong to multiple groups.
 
 
@@ -15,7 +21,12 @@ AddChat's one of the most awaited features. AddChat automatically detects the we
 
 **User-groups** option is by default `disabled`. Admin have to `enable` it from `Admin Panel -> Settings`. But first, your website must have **User-groups** functionality.
 
-<br>
+---
+
+![Setup User Groups](https://addchat-pro-docs.classiebit.com/images/user-groups-setup.jpg "Setup User Groups")
+
+---
+
 
 To enable **User-groups** option, the website must meet the following **requirements**.
 
@@ -73,7 +84,11 @@ After completing the above requirements, the **Groups** can be `enabled` by foll
 
 Once after setting up Groups configuration successfully, you'll see all your website `Groups` in the `Admin Panel -> Chat Groups` and there you can set the **permissions** that which groups can chat with which group. 
 
-<br>
+---
+
+![Set User Groups Permissions](https://addchat-pro-docs.classiebit.com/images/user-groups-permissions.jpg "Set User Groups Permissions")
+
+---
 
 Follow these baby steps to set group **permissions**
 
@@ -98,7 +113,11 @@ Follow these baby steps to set group **permissions**
 
 Once everything is done, when the users click on the AddChat widget `User Groups` tab, they'll see all the `Groups` according to the `Groups Permissions`. 
 
-<br>
+---
+
+![Chat within User groups](https://addchat-pro-docs.classiebit.com/images/user-groups-show.jpg "Chat within User groups")
+
+---
 
 And also when the user clicks on each `Group`, they'll see all the `Users` in the `Group` and can chat with them.
 

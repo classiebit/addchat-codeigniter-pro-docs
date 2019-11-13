@@ -15,10 +15,42 @@ Users can search for other online users on the website & start chatting with the
 Along with sending text messages, users can do the following things as well
 
 - Attach an Image <larecipe-badge type="black" circle icon="fa fa-picture-o"></larecipe-badge>
+
+    <br>
+
+    ![Attach an image](https://addchat-pro-docs.classiebit.com/images/image-attachment.jpg "Attach an image")
+
+    ---
+
+
 - Send Smileys <larecipe-badge type="success" circle icon="fa fa-smile-o"></larecipe-badge>
+
+    <br>
+
+    ![Send emojis & smileys](https://addchat-pro-docs.classiebit.com/images/smiley-support.jpg "Send emojis & smileys")
+
+    ---
+
+
 - Send Links <larecipe-badge type="info" circle icon="fa fa-link"></larecipe-badge>
-- Right click (Hold in touch devices) to open more actions <larecipe-badge type="secondary" circle icon="fa fa-hand-o-up"></larecipe-badge>
+
+    <br>
+
+    ![Send links](https://addchat-pro-docs.classiebit.com/images/url-link.jpg "Send links")
+
+    ---
+
+
 - Quote & Reply to a message <larecipe-badge type="primary" circle icon="fa fa-reply"></larecipe-badge>
+
+    <br>
+
+    ![Quote message & reply](https://addchat-pro-docs.classiebit.com/images/message-quote.jpg "Quote message & reply")
+
+    ---
+
+
+- Right click (Hold in touch devices) to open more actions <larecipe-badge type="secondary" circle icon="fa fa-hand-o-up"></larecipe-badge>
 - Unsend message if the message is not seen <larecipe-badge type="warning" circle icon="fa fa-undo"></larecipe-badge>
 - Delete the message <larecipe-badge type="danger" circle icon="fa fa-trash-o"></larecipe-badge>
 
@@ -27,6 +59,12 @@ Along with sending text messages, users can do the following things as well
 ## Manage Contact
 
 Click on the user image icon and to show action buttons.
+
+---
+
+![Manage contacts](https://addchat-pro-docs.classiebit.com/images/manage-contact.jpg "Manage contacts")
+
+---
 
 - Add Contact <larecipe-badge type="primary" circle icon="fa fa-user-plus"></larecipe-badge> - add the user to conversation list.
 - Remove Contact <larecipe-badge type="primary" circle icon="fa fa-user-times"></larecipe-badge> - remove the user from conversation list.

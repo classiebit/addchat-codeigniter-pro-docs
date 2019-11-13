@@ -2,7 +2,11 @@
 
 Include/Exclude URLs feature is useful in cases, where to show AddChat widget on some URLs and where not to.
 
-<br>
+---
+
+![Include or exclude URL](https://addchat-pro-docs.classiebit.com/images/include-exclude-url.jpg "Include or exclude URL")
+
+---
 
 For Example
 

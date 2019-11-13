@@ -4,7 +4,7 @@ Welcome to AddChat Laravel Pro & AddChat CodeIgniter Pro documentation.
 
 ---
 
-![AddChat Laravel Pro & AddChat CodeIgniter Pro](https://addchat-docs.classiebit.com/images/addchat-docs-banner-1.jpg "AddChat Laravel Pro & AddChat CodeIgniter Pro")
+![AddChat Laravel Pro & AddChat CodeIgniter Pro Docs](https://addchat-pro-docs.classiebit.com/images/addchat-pro-docs-banner-1.jpg "AddChat Laravel Pro & AddChat CodeIgniter Pro Docs")
 
 
 > {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[AddChat Laravel Pro Academy](https://classiebit.com/academy/addchat-laravel-pro/getting-started)** & **[AddChat CodeIgniter Pro Academy](https://classiebit.com/academy/addchat-codeigniter-pro/getting-started)** ✌️

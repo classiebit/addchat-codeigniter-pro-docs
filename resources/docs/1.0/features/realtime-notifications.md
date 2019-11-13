@@ -2,7 +2,11 @@
 
 AddChat Pro comes with a custom **Internal** notification system & **Pusher** integration for chatting in realtime. 
 
-<br>
+---
+
+![Realtime notifications](https://addchat-pro-docs.classiebit.com/images/realtime-notification.jpg "Realtime notifications")
+
+---
 
 **Internal** notification is a custom real-time notification system built using VueJs, which does not require any additional server setup. It works smoothly behind the scenes.
 
@@ -54,7 +58,12 @@ Pusher notification system fetches the following things in realtime.
 
 By default, the **Internal** notification system is `enabled`. To switch to `Pusher` notifications, firstly, you (as website Admin) need to [Signup on Pusher](https://pusher.com/signup) and `create an app` and get the Pusher API credentials.
 
-<br>
+---
+
+![Pusher setup](https://addchat-pro-docs.classiebit.com/images/pusher-setup.jpg "Pusher setup")
+
+---
+
 
 Once you have the **Pusher** credentials, open AddChat widget and -
 

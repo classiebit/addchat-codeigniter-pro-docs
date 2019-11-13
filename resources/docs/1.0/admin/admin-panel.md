@@ -4,8 +4,6 @@ Dashboard coming soon in the next version and will be coming with a lot of monit
 
 > {success} We're gonna add Charts and Graphs for advanced monitoring
 
----
-
 - [Conversations](#Conversations)
 - [Guest Conversations](#Guest-Conversations)
 - [Blocked & Reported](#Blocked-Reported)

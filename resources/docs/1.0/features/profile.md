@@ -1,8 +1,8 @@
 # Profile
 
---- 
+---
 
-![Addchat User Profile](https://addchat-docs.classiebit.com/images/profile.jpg "Addchat User Profile")
+![Addchat User Profile](https://addchat-pro-docs.classiebit.com/images/user-profile.jpg "Addchat User Profile")
 
 ---
 
