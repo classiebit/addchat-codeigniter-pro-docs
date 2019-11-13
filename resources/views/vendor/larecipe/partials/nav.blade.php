@@ -27,8 +27,12 @@
                 </larecipe-button>
             @endif
 
-            <larecipe-button tag="a" href="#" target="__blank" type="black" class="mx-2 px-4">
-                <i class="fab fa-github"></i>
+            <larecipe-button tag="a" href="https://classiebit.com/addchat-laravel-pro" target="__blank" type="warning" class="mx-2 px-4">
+                <i class="fab fa-laravel"></i>
+            </larecipe-button>
+
+            <larecipe-button tag="a" href="https://classiebit.com/addchat-codeigniter-pro" target="__blank" type="danger" class="mx-2 px-4">
+                <i class="fas fa-fire"></i>
             </larecipe-button>
 
             {{-- versions dropdown --}}
