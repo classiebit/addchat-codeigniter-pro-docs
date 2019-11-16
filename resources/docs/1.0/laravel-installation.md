@@ -4,7 +4,7 @@ AddChat can be installed via composer. Smooth... 🍻
 
 ---
 
-> {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[AddChat Laravel Pro Academy](https://classiebit.com/academy/addchat-laravel-pro/getting-started)** ✌️
+> {info.fa-youtube} A complete video tutorial guide for getting started quickly is **Coming Soon**
 
 ---
 

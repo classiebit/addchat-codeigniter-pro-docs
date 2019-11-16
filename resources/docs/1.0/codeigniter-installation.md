@@ -8,7 +8,7 @@ AddChat CodeIgniter Pro comes with an installer that makes the installation proc
 
 ---
 
-> {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[AddChat CodeIgniter Pro Academy](https://classiebit.com/academy/addchat-codeigniter-pro/getting-started)** ✌️
+> {info.fa-youtube} A complete video tutorial guide for getting started quickly is **Coming Soon**
 
 ---
 
