@@ -16,6 +16,7 @@ Manage AddChat global settings here.
 - [Users Table](#Users-Table)
 - [User Groups Table](#User-Groups-Table)
 - [Guest Mode](#Guest-Mode)
+- [Show/Hide User Email](#Show-Hide-User-Email)
 
 --- 
 
@@ -112,6 +113,13 @@ Enter `Guest/Support Group` id (value), the group who chats with the `Guests` (t
 |:-|:-|
 |Guest Mode|`bool`|Check/Uncheck the checkbox to enable/disable Guest Mode function|
 |Guest Group Id|`integer`|Enter the Guest/Support Group id (value)|
+
+
+
+<a name="Show-Hide-User-Email"></a>
+## Show/Hide User Email
+
+If you want to show or hide the email under the user names in contact list.
 
 
 ---
