@@ -1,7 +1,6 @@
 - ## Quick Start
     - [Introduction](/{{route}}/{{version}}/introduction)
-    - [Laravel Installation](/{{route}}/{{version}}/laravel-installation)
-    - [CodeIgniter Installation](/{{route}}/{{version}}/codeigniter-installation)
+    - [Installation](/{{route}}/{{version}}/installation)
     - [Demo Accounts](/{{route}}/{{version}}/demo-accounts)
     - [Settings](/{{route}}/{{version}}/admin/settings)
 
@@ -16,8 +15,7 @@
 
 - ## Admin
     - [Admin Panel](/{{route}}/{{version}}/admin/admin-panel)
-    - [Multi-Lang Laravel](/{{route}}/{{version}}/admin/multi-language-laravel)
-    - [Multi-Lang CodeIgniter](/{{route}}/{{version}}/admin/multi-language-codeigniter)
+    - [Multi-Lang](/{{route}}/{{version}}/admin/multi-language)
     
 
 - ## Contact

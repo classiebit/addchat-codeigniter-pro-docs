@@ -1,19 +1,19 @@
 # AddChat Pro
 
-Welcome to AddChat Laravel Pro & AddChat CodeIgniter Pro documentation.
+Welcome to AddChat CodeIgniter Pro documentation.
 
 ---
 
-![AddChat Laravel Pro & AddChat CodeIgniter Pro Docs](https://addchat-pro-docs.classiebit.com/images/addchat-pro-docs-banner-1.jpg "AddChat Laravel Pro & AddChat CodeIgniter Pro Docs")
+![AddChat CodeIgniter Pro Docs](https://addchat-pro-docs.classiebit.com/images/addchat-pro-docs-banner-1.jpg "AddChat CodeIgniter Pro Docs")
 
 
 > {info.fa-youtube} A complete video tutorial guide for getting started quickly is **Coming Soon**
 
 ---
 
-### All-in-one multi-purpose Chat Widget For Laravel & Codeigniter websites
+### All-in-one multi-purpose Chat Widget For Codeigniter websites
 
-AddChat is a new chatting friend of Laravel & Codeigniter. It's a standalone Chat widget that uses the website's existing `users` base, and let website users chat with each other. 
+AddChat is a new chatting friend of Codeigniter. It's a standalone Chat widget that uses the website's existing `users` base, and let website users chat with each other. 
 
 <br>
 
@@ -33,7 +33,7 @@ You get full source-code, hence AddChat lives and runs on your server/hosting in
 <a name="Overview"></a>
 ## Overview
 
-**Addchat Pro** is a chat widget that you can integrate into an existing or a fresh Codeigniter or Laravel website. AddChat works like a standalone widget and fulfills all your business-related needs like -
+**Addchat Pro** is a chat widget that you can integrate into an existing or a fresh Codeigniter website. AddChat works like a standalone widget and fulfills all your business-related needs like -
 
 1. User-to-user chatting
 2. Live real-time chatting (without page refresh)
@@ -75,9 +75,7 @@ AddChat is very light, high performance, scalable and secure.
 
 1. AddChat front-end built with **VueJs**, which is purely API based web-app.
 
-2. AddChat back-end (API) built with **Laravel** & **CodeIgniter** (two seperate products) 
-
-    - **AddChat Laravel** version is a Laravel package, hence, can be installed via **Composer** in an existing or a fresh Laravel website.
+2. AddChat back-end (API) built with **CodeIgniter**
 
     - **AddChat Codeigniter** version comes with an installer, which auto-install AddChat in an existing or a fresh Codeigniter website
 
@@ -118,7 +116,7 @@ AddChat is designed in **CSS Flexbox** and **Sass**. Let's see what's so special
 <a name="Multi-regional"></a>
 ## Multi-regional
 
-AddChat is compatible with all languages and timezones. AddChat auto adapts and adjust regional settings according to your website's default timezone and language. Please refer to the Language section for more info about **adding a new language** in [AddChat Laravel](/{{route}}/{{version}}/admin/multi-language-laravel) & [AddChat CodeIgniter](/{{route}}/{{version}}/admin/multi-language-codeigniter)
+AddChat is compatible with all languages and timezones. AddChat auto adapts and adjust regional settings according to your website's default timezone and language. Please refer to the Language section for more info about **adding a new language** in [Multi-lang](/{{route}}/{{version}}/admin/multi-language)
 
 --- 
 
@@ -132,16 +130,11 @@ AddChat is compatible with all languages and timezones. AddChat auto adapts and 
 
 ---
 
->{primary} This is AddChat Laravel Pro & AddChat Codeigniter Pro version documentation
+>{primary} This is AddChat AddChat Codeigniter Pro version documentation
 
 ---
 
 **AddChat Pro Version** comes with **Commercial** license. Pro version is fully loaded with a lot of useful and exciting features.
-
-- **AddChat Laravel Pro**
-
-    + [Live (addchat-laravel-pro.classiebit.com)](https://addchat-laravel-pro.classiebit.com) - Visit pro version live.
-    + [Purchase (https://classiebit.com/addchat-laravel-pro)](https://classiebit.com/addchat-laravel-pro) - Purchase pro version here.
 
 - **AddChat CodeIgniter Pro**
 
@@ -154,13 +147,6 @@ AddChat is compatible with all languages and timezones. AddChat auto adapts and 
 ## Lite Version
 
 **AddChat Lite Version** is for demo purposes, you can check out the free demo before purchasing the Pro version. Lite (demo) version has got limited features & functionality.
-
-- **AddChat Laravel Lite**
-
-    + [Live](https://addchat-laravel.classiebit.com) - Visit live.
-    + [Github](https://github.com/classiebit/addchat-laravel) - Give us a Star.
-    + [Install](https://classiebit.com/addchat-laravel) - Visit here to install
-
 
 - **AddChat CodeIgniter Lite**
 
@@ -175,7 +161,6 @@ AddChat is compatible with all languages and timezones. AddChat auto adapts and 
 
 To enhance the performance, security and scalability of AddChat, internally we've integrated some open-source third-party libraries/packages.
 
-+ [Laravel](https://laravel.com/) - The PHP Framework for Web Artisans
 + [Codeigniter](https://github.com/bcit-ci/CodeIgniter) - Open source PHP framework.
 + [VueJs](https://vuejs.org/) - The Progressive JavaScript Framework
 + [VueX](https://vuex.vuejs.org/) - State management pattern + library for Vue.js applications

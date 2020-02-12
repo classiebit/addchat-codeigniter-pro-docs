@@ -147,14 +147,14 @@ return [
 
     'seo'                 => [
         'author'          => 'classiebit',
-        'description'     => 'Add Chat widget to your Laravel or CodeIgniter website that lives on your server.',
+        'description'     => 'Add Chat widget to yourCodeIgniter website that lives on your server.',
         'keywords'        => '',
         'og'              => [
-            'title'       => 'AddChat Pro - Docs',
+            'title'       => 'AddChat Codeigniter Pro - Docs',
             'type'        => 'article',
-            'url'         => 'https://addchat-pro-docs.classiebit.com',
-            'image'       => 'https://addchat-pro-docs.classiebit.com/logo.png',
-            'description' => 'Add Chat widget to your Laravel or CodeIgniter website that lives on your server.',
+            'url'         => 'https://addchat-codeigniter-pro-docs.classiebit.com',
+            'image'       => 'https://addchat-codeigniter-pro-docs.classiebit.com/logo.png',
+            'description' => 'Add Chat widget to your CodeIgniter website that lives on your server.',
         ]
     ],
 
