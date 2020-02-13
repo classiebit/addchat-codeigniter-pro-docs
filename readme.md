@@ -2,12 +2,15 @@
 
 Welcome to AddChat CodeIgniter Pro documentation.
 
+- Read the docs live **[AddChat Codeigniter Pro Docs](https://addchat-codeigniter-pro-docs.classiebit.com)**
+
 ---
 
 ![AddChat CodeIgniter Pro Docs](https://addchat-pro-docs.classiebit.com/images/addchat-pro-docs-banner-1.jpg "AddChat CodeIgniter Pro Docs")
 
+---
 
-> {info.fa-youtube} A complete video tutorial guide for getting started quickly is **Coming Soon**
+> A complete video tutorial guide for getting started quickly is **Coming Soon**
 
 ---
 
@@ -59,11 +62,11 @@ Some of the key highlights, why you would like to go with AddChat!
 
 ---
 
->{primary} AddChat never modifies your existing database tables or records. And it never breaks down any of your website functionality.
+> AddChat never modifies your existing database tables or records. And it never breaks down any of your website functionality.
 
 ---
 
->{success} AddChat is fully tested and ready to be used in production websites. 
+> AddChat is fully tested and ready to be used in production websites. 
 
 ---
 
@@ -116,11 +119,11 @@ AddChat is designed in **CSS Flexbox** and **Sass**. Let's see what's so special
 <a name="Multi-regional"></a>
 ## Multi-regional
 
-AddChat is compatible with all languages and timezones. AddChat auto adapts and adjust regional settings according to your website's default timezone and language. Please refer to the Language section for more info about **adding a new language** in [Multi-lang](/{{route}}/{{version}}/admin/multi-language)
+AddChat is compatible with all languages and timezones. AddChat auto adapts and adjust regional settings according to your website's default timezone and language. Please refer to the Language section for more info about **adding a new language** in [Multi-lang](https://addchat-codeigniter-pro-docs.classiebit.com/docs/1.1/admin/multi-language)
 
 --- 
 
->{success} AddChat never breaks any of your website functionality, even if something went wrong with AddChat, there are `fallback modes` for every worst-case scenario.
+> AddChat never breaks any of your website functionality, even if something went wrong with AddChat, there are `fallback modes` for every worst-case scenario.
 
 ---
 
@@ -130,7 +133,7 @@ AddChat is compatible with all languages and timezones. AddChat auto adapts and 
 
 ---
 
->{primary} This is AddChat AddChat Codeigniter Pro version documentation
+> This is AddChat AddChat Codeigniter Pro version documentation
 
 ---
 
@@ -176,10 +179,6 @@ AddChat CodeIgniter Pro comes with an installer that makes the installation proc
 ---
 
 ![AddChat CodeIgniter Pro Installer](https://addchat-pro-docs.classiebit.com/images/addchat-codeigniter-pro-installer.jpg "AddChat CodeIgniter Pro Installer")
-
----
-
-> {info.fa-youtube} A complete video tutorial guide for getting started quickly is **Coming Soon**
 
 ---
 
@@ -231,11 +230,11 @@ AddChat CodeIgniter Pro comes with an installer that makes the installation proc
 4. Visit `yoursite.com/addchat_installer_pro` to run the installer. 
 
 
->{warning} Make sure **.htaccess** files exist and not hidden.
+> Make sure **.htaccess** files exist and not hidden.
 
 ---
 
-> {danger} Do not forget to delete the **addchat_installer_pro** folder after successful installation.
+> Do not forget to delete the **addchat_installer_pro** folder after successful installation.
 
 ---
 
@@ -259,7 +258,7 @@ AddChat CodeIgniter Pro comes with an installer that makes the installation proc
 - Enter your website config folder path. e.g `application/config`
 - Enter **LOGGED-IN USER-ID SESSION KEY NAME** e.g user_id
 
->{info} The $_SESSION variable key name in which your application stores the logged-in user id e.g $_SESSION['user_id'] then the key is **user_id**
+> The $_SESSION variable key name in which your application stores the logged-in user id e.g $_SESSION['user_id'] then the key is **user_id**
 
 <br>
 
@@ -275,11 +274,11 @@ AddChat CodeIgniter Pro comes with an installer that makes the installation proc
 
 - You'll need to enter the license code to complete the installation process.
 
->{info} Remember, one license code is valid for one domain only. Contact support for more details.
+> Remember, one license code is valid for one domain only. Contact support for more details.
 
 ---
 
->{success} And finally click install to start the installation process.
+> And finally click install to start the installation process.
 
 ---
 
@@ -349,4 +348,4 @@ AddChat CodeIgniter Pro comes with an installer that makes the installation proc
 
 ---
 
->{success} Setup finishes here, now heads-up straight to **[Configurations](/{{route}}/{{version}}/configurations)** docs
+> Setup finishes here, now heads-up straight to **[Configurations](https://addchat-codeigniter-pro-docs.classiebit.com/docs/1.1/configurations)** docs
