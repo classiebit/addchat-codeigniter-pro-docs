@@ -1,3 +1,3 @@
-# Addchat Pro Docs
+# Addchat Codeigniter Pro Docs
 
 **Chat widget**

@@ -121,7 +121,7 @@ AddChat CodeIgniter Pro comes with an installer that makes the installation proc
 
         ```php
         <!-- 1. Addchat css -->
-        <link href="<?php echo base_url('assets/addchat/css/addchat.min.css') ?>" rel="stylesheet">
+        <link href="<?php echo base_url('addchat/css/addchat.min.css') ?>" rel="stylesheet">
         ```
     
     - Copy AddChat Widget code and paste it right after opening **&lt;body&gt;** tag
@@ -139,10 +139,7 @@ AddChat CodeIgniter Pro comes with an installer that makes the installation proc
 
         ```php
         <!-- 3. AddChat JS -->
-        <!-- Modern browsers -->
-        <script type="module" src="<?php echo base_url('assets/addchat/js/addchat.min.js') ?>"></script>
-        <!-- Fallback support for Older browsers -->
-        <script nomodule src="<?php echo base_url('assets/addchat/js/addchat-legacy.min.js') ?>"></script>
+        <script type="module" src="<?php echo base_url('addchat/js/addchat.min.js') ?>"></script>
         ```
 
     <br>
@@ -155,7 +152,7 @@ AddChat CodeIgniter Pro comes with an installer that makes the installation proc
         <!-- **** your site other content **** -->
 
         <!-- 1. Addchat css -->
-        <link href="<?php echo base_url('assets/addchat/css/addchat.min.css') ?>" rel="stylesheet">
+        <link href="<?php echo base_url('addchat/css/addchat.min.css') ?>" rel="stylesheet">
 
     </head>
     <body>
@@ -174,22 +171,11 @@ AddChat CodeIgniter Pro comes with an installer that makes the installation proc
 
 
         <!-- 3. AddChat JS -->
-        <!-- Modern browsers -->
         <script type="module" src="<?php echo base_url('assets/addchat/js/addchat.min.js') ?>"></script>
-        <!-- Fallback support for Older browsers -->
-        <script nomodule src="<?php echo base_url('assets/addchat/js/addchat-legacy.min.js') ?>"></script>
-
+        
     </body>
     ```
 
 ---
 
->{warning} Replace the `assets` by your website's assets path.
-
----
-
->{info} `addchat.min.js` for modern browsers & `addchat-legacy.min.js` for older browsers. These will be used switched by the browsers automatically on the basis on `type="module"` & `nomodule`, you need to nothing.
-
----
-
->{success} Setup finishes here, now heads-up straight to **[Settings](/{{route}}/{{version}}/admin/settings)** docs
+>{success} Setup finishes here, now heads-up straight to **[Configurations](/{{route}}/{{version}}/configurations)** docs

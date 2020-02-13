@@ -1,4 +1,4 @@
-# AddChat Pro
+# AddChat Codeigniter Pro
 
 Welcome to AddChat CodeIgniter Pro documentation.
 
@@ -33,7 +33,7 @@ You get full source-code, hence AddChat lives and runs on your server/hosting in
 <a name="Overview"></a>
 ## Overview
 
-**Addchat Pro** is a chat widget that you can integrate into an existing or a fresh Codeigniter website. AddChat works like a standalone widget and fulfills all your business-related needs like -
+**Addchat Codeigniter Pro** is a chat widget that you can integrate into an existing or a fresh Codeigniter website. AddChat works like a standalone widget and fulfills all your business-related needs like -
 
 1. User-to-user chatting
 2. Live real-time chatting (without page refresh)
@@ -134,7 +134,7 @@ AddChat is compatible with all languages and timezones. AddChat auto adapts and 
 
 ---
 
-**AddChat Pro Version** comes with **Commercial** license. Pro version is fully loaded with a lot of useful and exciting features.
+**AddChat Codeigniter Pro Version** comes with **Commercial** license. Pro version is fully loaded with a lot of useful and exciting features.
 
 - **AddChat CodeIgniter Pro**
 

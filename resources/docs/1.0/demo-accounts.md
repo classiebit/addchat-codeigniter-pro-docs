@@ -1,6 +1,6 @@
 # Demo Accounts
 
-Demo accounts have got `demo data` to easily showcase all the features of AddChat Pro version.
+Demo accounts have got `demo data` to easily showcase all the features of AddChat Codeigniter Pro version.
 
 <br>
 1. We refresh the database every day.

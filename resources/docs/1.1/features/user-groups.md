@@ -4,7 +4,7 @@ AddChat's one of the most awaited features. AddChat automatically detects the we
 
 ---
 
-![Multiple User Groups](https://addchat-pro-docs.classiebit.com/images/user-groups.jpg "Multiple User Groups")
+![Multiple User Groups](https://addchat-codeigniter-pro-docs.classiebit.com/images/user-groups.jpg "Multiple User Groups")
 
 ---
 
@@ -19,16 +19,7 @@ AddChat's one of the most awaited features. AddChat automatically detects the we
 <a name="Setup-User-Groups"></a>
 ## Setup User Groups
 
-**User-groups** option is by default `disabled`. Admin have to `enable` it from `Admin Panel -> Settings`. But first, your website must have **User-groups** functionality.
-
----
-
-![Setup User Groups](https://addchat-pro-docs.classiebit.com/images/user-groups-setup.jpg "Setup User Groups")
-
----
-
-
-To enable **User-groups** option, the website must meet the following **requirements**.
+**User-groups** option is by default `disabled`. You can `enable` it from AddChat config `application/config/addchat.php`. And to enable **User-groups** option, the website must meet the following **requirements**.
 
 1. `Groups` or `Roles` table.
 
@@ -42,38 +33,17 @@ To enable **User-groups** option, the website must meet the following **requirem
 
 After completing the above requirements, the **Groups** can be `enabled` by following steps-
 
-1. Open `Admin Panel` and click on `Settings`
-2. Scroll down to **User Groups Table** section.
-3. Click on `Group on/off` checkbox to turn `on` Group functionality.
-4. Fill in the following form fields
+1. Go to `application/config/addchat.php` and scroll to `User Groups Table` section.
+2. Enter the `groups/roles` and `user_groups/user_roles` pivot table & their column names.
+3. Save the file, and you're good to go.
 
-<br>
+---
 
-**Groups Table**
-
-|Setting Name|Type|Description|
-|:-|:-|
-|Groups Table|`string`|enter Groups table name e.g groups|
-|Group Id|`string`|enter Group's table Id column name e.g id|
-|Group Name|`string`|Group's table group name column e.g group_name|
-
-<br>
-
-**Users & Groups Pivot Table**
-
-|Setting Name|Type|Description|
-|:-|:-|
-|Users & Groups Pivot Table Name|`string`|enter name of users & groups pivot table e.g users_groups|
-|Pivot table User Id|`string`|enter Pivot table User Id column name e.g user_id|
-|Pivot table Group Id|`string`|enter Pivot table Group Id column name e.g group_id|
+>{primary} Read the configurations for more info - **[User Groups Configurations](/{{route}}/{{version}}/configurations#User-Groups-Table)**
 
 ---
 
 > {danger} All the above form fields are required to `enable` Group functionality.
-
----
-
-> {success} After completing all the above steps, click on &nbsp;<larecipe-button type="white" size="sm" radius="full">Save Settings</larecipe-button> and logout & login again.
 
 ---
 
@@ -86,7 +56,7 @@ Once after setting up Groups configuration successfully, you'll see all your web
 
 ---
 
-![Set User Groups Permissions](https://addchat-pro-docs.classiebit.com/images/user-groups-permissions.jpg "Set User Groups Permissions")
+![Set User Groups Permissions](https://addchat-codeigniter-pro-docs.classiebit.com/images/user-groups-permissions.jpg "Set User Groups Permissions")
 
 ---
 
@@ -115,7 +85,7 @@ Once everything is done, when the users click on the AddChat widget `User Groups
 
 ---
 
-![Chat within User groups](https://addchat-pro-docs.classiebit.com/images/user-groups-show.jpg "Chat within User groups")
+![Chat within User groups](https://addchat-codeigniter-pro-docs.classiebit.com/images/user-groups-show.jpg "Chat within User groups")
 
 ---
 

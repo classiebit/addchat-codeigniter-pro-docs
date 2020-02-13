@@ -1,6 +1,6 @@
 # Realtime Notifications
 
-AddChat Pro comes with a custom **Internal** notification system & **Pusher** integration for chatting in realtime. 
+AddChat Codeigniter Pro comes with a custom **Internal** notification system & **Pusher** integration for chatting in realtime. 
 
 ---
 
