@@ -139,7 +139,7 @@ AddChat CodeIgniter Pro comes with an installer that makes the installation proc
 
         ```php
         <!-- 3. AddChat JS -->
-        <script type="module" src="<?php echo base_url('addchat/js/addchat.min.js') ?>"></script>
+        <script src="<?php echo base_url('addchat/js/addchat.min.js') ?>"></script>
         ```
 
     <br>
@@ -171,7 +171,7 @@ AddChat CodeIgniter Pro comes with an installer that makes the installation proc
 
 
         <!-- 3. AddChat JS -->
-        <script type="module" src="<?php echo base_url('assets/addchat/js/addchat.min.js') ?>"></script>
+        <script src="<?php echo base_url('assets/addchat/js/addchat.min.js') ?>"></script>
         
     </body>
     ```
