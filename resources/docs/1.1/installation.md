@@ -1,4 +1,4 @@
-# Codeigniter Installation
+# Installation
 
 AddChat CodeIgniter Pro comes with an installer that makes the installation process fully automated and smooth 🍻
 
